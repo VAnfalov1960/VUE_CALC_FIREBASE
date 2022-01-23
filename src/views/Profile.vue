@@ -24,7 +24,7 @@
           English
           <input type="checkbox" v-model="isRuLocale">
           <span class="lever"></span>
-          Русский
+          Русский язык
         </label>
       </div>
 
